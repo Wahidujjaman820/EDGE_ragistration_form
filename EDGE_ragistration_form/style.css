@@ -1,0 +1,71 @@
+
+.upper_nav{
+    text-align: center;
+   
+    background-color: gray;
+    padding: 50px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.down_nav{
+    margin-top: 15px;
+    background-color: rgb(39, 73, 73);
+    padding: 30px;
+}
+
+.down_nav a{
+   
+  margin: 50px;
+  padding: 60px;
+  color: white;
+  
+}
+
+.link{
+  
+  text-decoration: none;
+}
+
+table{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;
+}
+
+.sl{
+    width: 50px;
+    text-align: center;
+}
+
+
+    
+
+.title{
+    background-color: darkslategray;
+}
+
+ul li{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.left-side{
+    width: 20%;
+    float: left;
+   font-size: 20px;
+   margin-left: 25%;
+   
+}
+
+.btn{
+    margin-left: 40%;
+}
+
+input{
+    border-radius: 5px;
+}
+
+tr:nth-child(even){
+    background-color: rgb(218, 222, 226);
+}
